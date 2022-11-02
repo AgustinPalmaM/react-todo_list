@@ -1,5 +1,7 @@
 import logo from './images/pngwing.com.png';
 import Task from './components/Task'
+import Form from './components/Form';
+import TaskList from './components/TaskList';
 import './App.css';
 
 
@@ -15,10 +17,8 @@ function App() {
       </div>
       <div className="todo-list-main">
         <h1>My tasks</h1>
-        <Task 
-          text='Learn React'
-          finished={ false }
-        />
+        <TaskList />
+
       </div>
     </div>
   );
