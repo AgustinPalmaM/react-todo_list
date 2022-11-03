@@ -29,6 +29,6 @@
 }
 
 .button-task:hover {
-  background: white;
-  color: #00471b;
+  background: rgb(102, 248, 66);
+  color: black;
 }

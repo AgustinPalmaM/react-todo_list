@@ -1,6 +1,4 @@
 import logo from './images/pngwing.com.png';
-import Task from './components/Task'
-import Form from './components/Form';
 import TaskList from './components/TaskList';
 import './App.css';
 
