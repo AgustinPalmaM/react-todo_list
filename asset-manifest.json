@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-todo_list/static/css/main.79b6cba3.css",
+    "main.js": "/react-todo_list/static/js/main.bb5a46d7.js",
+    "static/js/787.a5cad257.chunk.js": "/react-todo_list/static/js/787.a5cad257.chunk.js",
+    "static/media/pngwing.com.png": "/react-todo_list/static/media/pngwing.com.4814b05eb52b0c1ee139.png",
+    "index.html": "/react-todo_list/index.html",
+    "main.79b6cba3.css.map": "/react-todo_list/static/css/main.79b6cba3.css.map",
+    "main.bb5a46d7.js.map": "/react-todo_list/static/js/main.bb5a46d7.js.map",
+    "787.a5cad257.chunk.js.map": "/react-todo_list/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b6cba3.css",
+    "static/js/main.bb5a46d7.js"
+  ]
+}
